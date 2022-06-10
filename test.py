@@ -15,7 +15,7 @@ ses.send_email(
         'ToAddresses': [
             'stevan.kosijer@symphony.is',
         ]
-    }
+    },
     Message={
         'Subject': {
             'Data': 'SES Demo',
