@@ -13,7 +13,7 @@ ses.send_email(
     Source = 'pleskovicaleksa99@gmail.com',
     Destination={
         'ToAddresses': [
-            'stevan.kosijer@symphony.is',
+            'pleskovicaleksa99@gmail.com',
         ]
     },
     Message={
